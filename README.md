@@ -1,6 +1,6 @@
 # Judger 
 
-[![Build Status](https://60.204.175.19/)](https://60.204.175.19/)
+[Build Status](https://60.204.175.19/)
 
 Judger for OnlineJudge 
 
