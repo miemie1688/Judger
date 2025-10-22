@@ -1,6 +1,6 @@
 # Judger 
 
-[![Build Status](https://travis-ci.org/QingdaoU/Judger.svg?branch=newnew)](https://travis-ci.org/QingdaoU/Judger)
+[![Build Status](https://60.204.175.19/)](https://60.204.175.19/)
 
 Judger for OnlineJudge 
 
